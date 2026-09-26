@@ -75,47 +75,23 @@ Manual, paper-based patient case-taking in healthcare environments is fraught wi
 
 ---
 
-## 6. Installation & Local Setup
+## 6. TEAM
 
-### Prerequisites
-- **Node.js**: v18.0.0 or higher
-- **npm**: v9.0.0 or higher
-
-### Steps to Run Locally
-
-```bash
-# 1. Clone repository and navigate to root directory
-cd CaseTakingSystem
-
-# 2. Install all dependencies
-npm install
-
-# 3. Start the application (Vite Dev Server + Express Backend API)
-npm run dev
-
-# 4. Open in browser:
-# Frontend URL: http://localhost:5173
-# Backend API:  http://localhost:5000/api/health
-```
+1. Member 1 - Ayinampudi Abhiram Varma
+2. Member 2 = Gollapalli Srinivas
+3. Member 3 - Gundumogula Manoj
+4. Member 4 - Gangavarapu Sashank
+5. Member 5 = Ginkala Spandana
+6. Member 6 - Nammi vedha Sri
 
 ---
 
-## 7. Environment Variables (`.env.example`)
-
-```env
-PORT=5000
-VITE_API_BASE_URL=http://localhost:5000/api
-VITE_APP_ENV=development
-```
-
----
-
-## 8. Medical Safety & Ethical AI Framework
+## 7. Medical Safety & Ethical AI Framework
 - **Non-Autonomous Principle:** The artificial intelligence assistant strictly formats, extracts, and summarizes doctor-entered parameters. It **never** autonomously makes medical diagnoses or prescribes medications.
 - **Mandatory Review Tag:** All AI summaries carry an explicit tag: *"AI-Generated Summary — Requires Attending Physician Review"*.
 - **Physician Authority:** Final clinical diagnosis and treatment plans remain the exclusive legal and professional responsibility of the licensed medical practitioner.
 
 ---
 
-## 9. License & Team
+## 8. License
 Developed for **Smart India Hackathon (SIH 2026)**. All sample patient data in this prototype is fictional and intended exclusively for demonstration purposes.
