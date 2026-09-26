@@ -5,8 +5,11 @@
 
 ---
 PROTOTYPE DEMO LINK:  https://casetakingsystem.vercel.app/
+
 PROTOTYPE EXPLANATION:  https://youtu.be/GcAwWfi1EUs?si=zEUvW5p38KGZ3LMY
+
 PPT EXPLANATION:  https://youtu.be/2vP7nz1fqfk?si=9D57lueLiQYi2dsD
+
 
 ## 1. Problem Statement
 Manual, paper-based patient case-taking in healthcare environments is fraught with critical challenges:
